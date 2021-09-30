@@ -113,8 +113,8 @@ Page({
       url: 'https://aip.baidubce.com/oauth/2.0/token',
       data: {
         grant_type:'client_credentials',
-        client_id:'6zctkAtmZKL4Ayi7G60aTRkG',
-        client_secret:'DRyGS3zSLbxWPG2RX8j0Gb5Dvf5rb4FQ',
+        client_id:'API_KEY',
+        client_secret:'SECRET_KEY',
       },
       header: {
         'content-type': 'application/x-www-form-urlencoded' 
